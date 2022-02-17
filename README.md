@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working as Intern on [CEIEC](https://github.com/ufvceiec)
 - 🌱 I’m currently studying computer engineering
-- ⚡ I am best at AI and cybersecurity !!
+- ⚡ I’m best at AI and cybersecurity !!
 
 ![Metrics](github-metrics.svg)
 
-v2.0
+v2.1
 <!--
 **Enriquerzrz/Enriquerzrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
