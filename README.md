@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Intern on [CEIEC](https://github.com/ufvceiec)
-- 🌱 I’m currently studying computer engineering
+- 🔭 I’m currently working as engineer on [GMV]((https://www.gmv.com/es-es))
 - ⚡ I’m best at AI and cybersecurity !!
 
 ![Metrics](github-metrics.svg)
