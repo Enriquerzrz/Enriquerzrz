@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as engineer on [GMV]((https://www.gmv.com/es-es))
-- ⚡ I’m best at AI and cybersecurity !!
-
 ![Metrics](github-metrics.svg)
 
 v2.1
